@@ -1,6 +1,6 @@
-# Jira Clone
+# Zcrum
 
-A modern, full-stack Jira clone built with Next.js 14 and cutting-edge technologies. This project implements core Jira functionalities with a clean, responsive interface.
+#A modern, full-stack Jira clone built with Next.js 14 and cutting-edge technologies. This project implements core **Jira** functionalities with a clean, responsive interface.
 
 ## Tech Stack
 
